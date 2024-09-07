@@ -15,7 +15,7 @@ Responsive Design: The application is fully responsive and works on all devices.
 Deployed on Render: The application is deployed and can be accessed live.
 
 # Deployment: 
-This app was deployed on Render (Really easily). So in case you don't want to go through all that work just to simply test it out, you can always head to: [Live Link](https://mern-products-srivatsan.onrender.com/)
+This app was deployed on Render (Really easily). So in case you don't want to go through all that work just to simply test it out, you can always head to: [Live Link](https://mern-products-srivatsan.onrender.com/1)
 
 In case the time at which you click this, it isn't up and running, please do contact me :)
 
